@@ -501,7 +501,7 @@ Pull requests are welcome.
 5. Open a PR with a clear description.
 
 ---
-## 📄 image workspace
+## 💦 image workspace
 ![demo](image.png)
 
 ---
