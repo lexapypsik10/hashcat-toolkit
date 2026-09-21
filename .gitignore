@@ -1,0 +1,9 @@
+*.conf
+!example.conf
+*.log
+queue.txt
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
