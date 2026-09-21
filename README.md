@@ -3,7 +3,7 @@
 # 🩸 hashcat-toolkit
 
 ### **Run hashcat locally or on a remote host — clean, queued, and logged.**
-![demo](image.png)
+
 <img src="https://img.shields.io/badge/bash-%3E%3D%204.0-8B0000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/ssh-remote%20ready-8B0000?style=for-the-badge&logo=openssh&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-container%20mode-8B0000?style=for-the-badge&logo=docker&logoColor=white" />
@@ -499,6 +499,10 @@ Pull requests are welcome.
 4. Keep the coding style: 4-space indentation, `set -uo pipefail`,
    ANSI colors via `$'\033[…'`, helpers named `box_line` / `box_rule` / `die`.
 5. Open a PR with a clear description.
+
+---
+## 📄 image workspace
+![demo](image.png)
 
 ---
 
